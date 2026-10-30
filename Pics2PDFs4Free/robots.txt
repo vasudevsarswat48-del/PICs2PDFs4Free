@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://pics2pdfs4free.vercel.app/sitemap.xml
